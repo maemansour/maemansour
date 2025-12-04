@@ -11,3 +11,11 @@ The web app allows students to upload their transcript, automatically analyzes t
 **Frontend:** React, Next.js 15, TypeScript, Tailwind CSS, Radix UI  
 **Backend:** AWS Bedrock (Claude 3.5), AWS Lambda, AWS Cognito, S3 (Object Storage), CloudFront  
 **AI:** Claude 3.5 via AWS Bedrock  
+
+
+
+### 🎨 AMA SDSU Website — Full-Stack Redesign
+Designed and developed the official website for the American Marketing Association at SDSU.  
+Replaced their paid website builder, saving the club **~$30/month**, while improving member engagement, navigation, and branding consistency.
+
+🔗 **Repository:** [amawebsite](https://github.com/maemansour/amawebsite)
