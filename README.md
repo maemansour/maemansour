@@ -12,6 +12,11 @@ The web app allows students to upload their transcript, automatically analyzes t
 **Backend:** AWS Bedrock (Claude 3.5), AWS Lambda, AWS Cognito, S3 (Object Storage), CloudFront  
 **AI:** Claude 3.5 via AWS Bedrock  
 
+### 🧭 Askae User Portal — Front-End Dashboard  
+A Next.js dashboard UI built for onboarded users of Askae, an AI-powered platform for small wellness businesses.  
+Designed the front-end experience allowing users to track calls, manage agents, view insights, and access payment-related information.
+
+🔗 **Repository:** [askae-user-portal](https://github.com/maemansour/askae-user-portal)
 
 
 ### 🎨 AMA SDSU Website — Full-Stack Redesign
